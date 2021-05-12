@@ -1,13 +1,3 @@
-/***********************************************************************/
-/*                                                                     */
-/*  FILE        :Main.c or Main.cpp                                    */
-/*  DATE        :Tue, Oct 31, 2006                                     */
-/*  DESCRIPTION :Main Program                                          */
-/*  CPU TYPE    :                                                      */
-/*                                                                     */
-/*  NOTE:THIS IS A TYPICAL EXAMPLE.                                    */
-/*                                                                     */
-/***********************************************************************/
 #include "iodefine.h"
 #include "initBASE.h"
 
